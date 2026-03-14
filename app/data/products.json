@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 120,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Gaming Keyboard",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 80,
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "price": 39.99,
+      "stock": 150,
+      "rating": 4.4
+    },
+    {
+      "id": 4,
+      "name": "27-inch 4K Monitor",
+      "category": "Electronics",
+      "price": 329.99,
+      "stock": 45,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "USB-C Hub Adapter",
+      "category": "Accessories",
+      "price": 29.99,
+      "stock": 200,
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Portable SSD 1TB",
+      "category": "Storage",
+      "price": 119.99,
+      "stock": 60,
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "price": 24.99,
+      "stock": 140,
+      "rating": 4.4
+    },
+    {
+      "id": 8,
+      "name": "Noise Cancelling Earbuds",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 110,
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "name": "Smart Fitness Band",
+      "category": "Wearables",
+      "price": 49.99,
+      "stock": 130,
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "name": "Smartphone Tripod",
+      "category": "Accessories",
+      "price": 19.99,
+      "stock": 170,
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "name": "1080p Webcam",
+      "category": "Electronics",
+      "price": 54.99,
+      "stock": 90,
+      "rating": 4.4
+    },
+    {
+      "id": 12,
+      "name": "Wireless Charging Pad",
+      "category": "Accessories",
+      "price": 22.99,
+      "stock": 160,
+      "rating": 4.1
+    },
+    {
+      "id": 13,
+      "name": "Portable Power Bank 20000mAh",
+      "category": "Electronics",
+      "price": 34.99,
+      "stock": 145,
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "name": "LED Desk Lamp",
+      "category": "Home",
+      "price": 27.99,
+      "stock": 100,
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "price": 199.99,
+      "stock": 30,
+      "rating": 4.6
+    },
+    {
+      "id": 16,
+      "name": "Standing Desk Converter",
+      "category": "Furniture",
+      "price": 149.99,
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": 17,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 45.99,
+      "stock": 115,
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "name": "Action Camera 4K",
+      "category": "Electronics",
+      "price": 99.99,
+      "stock": 70,
+      "rating": 4.3
+    },
+    {
+      "id": 19,
+      "name": "Smart LED Bulb",
+      "category": "Home",
+      "price": 14.99,
+      "stock": 210,
+      "rating": 4.2
+    },
+    {
+      "id": 20,
+      "name": "External Hard Drive 2TB",
+      "category": "Storage",
+      "price": 89.99,
+      "stock": 55,
+      "rating": 4.6
+    }
+  ]
+}
