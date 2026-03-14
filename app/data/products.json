@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "id": 1,
       "name": "Wireless Bluetooth Headphones",
@@ -160,5 +159,4 @@
       "stock": 55,
       "rating": 4.6
     }
-  ]
-}
+]
