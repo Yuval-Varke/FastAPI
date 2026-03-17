@@ -65,3 +65,10 @@ def list_products(
 
 
 
+@app.get('/products/{product_id}')
+def get_product(product_id: str = Path(...,min_length=1, max_length=100,example='1' ,description="The ID of the product to retrieve")):
+    products = get_all_products()
+    for product in products:
+        if product['id'] == product_id:
+            return product
+    raise HTTPException(status_code=404, detail=f"Product with id {product_id} not found")
